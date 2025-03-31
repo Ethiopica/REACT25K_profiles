@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am currently studying Full stack web development at Business Schools Helsinki.<br>I am looking collaboration at this Juncture.<br>Ready to learn and know More 
-
+I am currently studying Full stack web development at Business College Helsinki.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eliobais@gmail.com) 
